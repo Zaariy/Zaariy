@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Zaariy
+- 👋 Hi, I’m @ZAARY
 - 👀 I’m interested in web developement
 - 🌱 I’m currently learning  how to build full-stack website
-- 📫 How to reach me ...
-- 🌐 My website : [Website](https://portfoliozaary.herokuapp.com/)
+- 🌐 My website : [Website](https://portfoliozaary.herokuapp.com/](https://zaarywork.netlify.app/)
 
 <!---
 Zaariy/Zaariy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
